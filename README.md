@@ -20,13 +20,6 @@ Tudo direto no terminal.
 - Pandas
 - SQLite
 
-## 📂 Estrutura do projeto
-spotify-streams/
-│
-├── spotify_sqlite.py
-├── Streaming_History_Audio_2025-2026_2.csv
-└── spotify_streams.db
-
 ## ▶️ Como executar
 
 - Instale o Python (3.10 ou superior).
