@@ -41,7 +41,6 @@ Top 10 artistas mais ouvidos:
 2. Artista B
 3. Artista C
 
-...
 📥 Como obter o arquivo do Spotify
 
 1. Acesse as configurações da sua conta Spotify.
